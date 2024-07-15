@@ -1,0 +1,23 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.boardLine {
+    display: flex;
+}
+
+.house {
+    width: 100px;
+    height: 100px;
+}
+
+.white {
+    background-color: #fff;
+}
+
+.black {
+    background-color: black;
+}
